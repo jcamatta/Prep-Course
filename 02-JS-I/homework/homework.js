@@ -99,7 +99,7 @@ function mayorQueCincuenta(num) {
 function obtenerResto(x, y) {
   // Obten el resto de la división de "x" entre "y"
   // Tu código:
-  var resto = x % y;
+  return resto = x % y;
   
 }
 
@@ -202,7 +202,7 @@ function obtenerSaludo(nombre) {
   // Toma la string "nombre" y concatena otras string en la cadena para que tome la siguiente forma:
   // "Martin" -> "Hola Martin!"
   // Tu código:
-  var newString = "Hola " + nombre + "!";
+  return newString = "Hola " + nombre + "!";
   
 }
 
@@ -224,7 +224,7 @@ function retornarPerimetro(lado){
 function areaDelTriangulo(base, altura){
   //Desarrolle una función que calcule el área de un triángulo.
   //Escribe tu código aquí
-  var areaTriangulo = base * altura * (1 / 2 );
+  return areaTriangulo = base * altura * (1 / 2 );
 }
 
 
@@ -232,7 +232,7 @@ function deEuroAdolar(euro){
   //Supongamos que 1 euro equivale a 1.20 dólares. Escribe un programa que reciba
   //como parámetro un número de euros y calcule el cambio en dólares.
   //Escribe tu código aquí
-  var enDolares = euro * 1.2;
+  return enDolares = euro * 1.2;
 }
 
 
